@@ -1,0 +1,23 @@
+body
+{
+   background-color: lightgreen;
+}
+
+#Score  
+{
+    font-size: 30;
+    margin: left;
+}
+
+#Timer
+{
+    font-size: 30;
+    float: right;
+    margin: right;
+}
+
+#Skecth_to_be_drawn
+{
+    color: red;
+}
+
